@@ -1,0 +1,9 @@
+
+{
+  "name": "SENANI KURUWITA Attendance & Salary System",
+  "description": "A high-performance React web application for employee attendance, salary management, and OT calculation with neon UI aesthetics.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
